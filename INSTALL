@@ -1,0 +1,25 @@
+============================= alfy INSTALLATION README =====================
+
+1) Extracting the tarfile:
+
+"tar -xvzf gmos_xxx.tgz"
+
+2) switch to Gmos_XXX:
+
+"cd Gmos_XXX"
+
+3) Generate program
+
+"make"
+
+This command builds the libraries and two executables: "gmos" and "gmos64".
+"gmos" is a 32-bit program and "gmos64" is a 64-bit program. 
+"gmos64" should be only used for large-scale data sets containing more than 5 x 10^8 bp, 
+and "gmos" from smaller data sets.
+
+5) If you would like to use "gmos" or "gmos" from any directory without referring to
+"Gmos_XXX/gmos", simply include the path to these executables in you PATH variable, e.g:
+
+PATH=${PATH}:$(HOME)/some-path/Gmos_XXX
+
+or copy the executables to your bin directory.

@@ -1,0 +1,17 @@
+================== gmos 1.x.x ACKNOWLEDGEMENTS ===================================
+
+gmos 1.x.x [1] computes the mosaic structure of a query sequence when compared to a set of subject sequences:
+each query region is mapped to the most similar subject region
+
+gmos 1.x.x code contributors:
+	Mirjana Domazet-Loso
+	University of Zagreb Faculty of Electrical Engineering and Computing, Zagreb, Croatia
+		
+Libraries used:
+[1] DeepShallow library, copyright (C) 2002 Giovanni Manzini. 
+Please refer to ExternSrc/DeepShallow/COPYRIGHT.GPL.txt and ExternSrc/DeepShallow/COPYRIGHT.MPL.txt
+
+[2] libdivsuf (a lightweight suffix-sorting library), Copyright (c) 2003-2008 Yuta Mori All Rights Reserved
+Please refer to ExternSrc/LibDivSufSort/COPYING
+
+References:
