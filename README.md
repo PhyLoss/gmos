@@ -4,6 +4,7 @@ Domazet-Lošo M., Domazet-Lošo T. (2016) **gmos: Rapid Detection of Genome Mosa
 
 ## Instructions to run the source code
 For gmos: available at [INSTALL](https://github.com/PhyLoss/gmos/blob/main/INSTALL)
+
 For gmosDraw: available at [gmosDrawDoc.pdf](https://github.com/PhyLoss/gmos/blob/main/gmosDrawDoc.pdf)
 
 ## Team
